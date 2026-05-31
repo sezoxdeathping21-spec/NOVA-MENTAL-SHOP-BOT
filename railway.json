@@ -1,5 +1,5 @@
 {
   "deploy": {
-    "startCommand": "python -u MENTALCHEATSSHOP.PY"
+    "startCommand": "python -u MENTALCHEATLOBBY.PY"
   }
 }
